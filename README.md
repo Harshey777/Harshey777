@@ -48,11 +48,17 @@
 
 | 🎯 | Core Skills |
 |:--:|:--|
-| 💻 | Full Stack Development |
-| 🧠 | Machine Learning |
-| 📝 | NLP & LLMs |
 | 📊 | Data Science |
-| 🌐 | Web Technologies |
+| 📈 | Statistical Analysis & Hypothesis Testing |
+| 🤔 | Linear & Logistic Regression |
+| 🔍 | Exploratory Data Analysis (EDA) |
+| 📈 | Unsupervised ML Algorithms |
+| 🤖 | Machine Learning Models |
+| 🧠 | Neural Networks |
+| 🌳 | Bagging & Boosting |
+| 📄 | Text Mining |
+| 🔮 | Forecasting |
+| 📊 | Tableau |
 
 </td>
 <td>
@@ -104,6 +110,7 @@
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 </details>
 
