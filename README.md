@@ -2,13 +2,13 @@
 
 <!-- DYNAMIC HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Harshitha%20Chauhan&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlign=50&descAlignY=52&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Harshitha%20Chauhan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlign=50&descAlignY=52&descSize=18">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Harshitha%20Chauhan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer&descAlign=50&descAlignY=52&descSize=18"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Harshitha%20Chauhan&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI/ML%20Engineer&descAlign=50&descAlignY=52&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Harshitha%20Chauhan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI/ML%20Engineer&descAlign=50&descAlignY=52&descSize=18">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Harshitha%20Chauhan&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI/ML%20Engineer&descAlign=50&descAlignY=52&descSize=18"/>
 </picture>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+AI-Powered+Solutions+%F0%9F%A7%A0;Full+Stack+Development+%7C+Machine+Learning;Real-World+Applications+from+Scratch" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Data+Science+%7C+Machine+Learning;AI-Powered+Solutions;Exploring+Data+Patterns" alt="Typing SVG" /></a>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p>
@@ -37,7 +37,7 @@
 ```js
 {
   "name": "Harshitha Chauhan",
-  "title": "Full Stack Developer | AI/ML Engineer",
+  "title": "Data Scientist | AI/ML Engineer",
   "location": "Bengaluru, Karnataka 🇮🇳",
   "status": "Open to opportunities"
 }
